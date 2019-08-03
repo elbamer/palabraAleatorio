@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings/
+bin/
+src/ahorcado/
+src/ahorcado3/
+src/ahorcadoPseint/
+src/arrayEjMa/
+
